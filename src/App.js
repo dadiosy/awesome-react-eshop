@@ -12,6 +12,7 @@ function App() {
       <UseMemoDemo />
       <UseCallbackDemo />
       <UseRefDemo />
+      <h1>scss style</h1>
     </div>
   );
 }
