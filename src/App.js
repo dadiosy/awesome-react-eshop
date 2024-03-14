@@ -3,6 +3,7 @@ import UseMemoDemo from "./components/useMemo_demo";
 import UseCallbackDemo from "./components/usecallback_demo";
 
 import "./App.css";
+import UseRefDemo from "./components/useref_demo";
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       <MemoDemo />
       <UseMemoDemo />
       <UseCallbackDemo />
+      <UseRefDemo />
     </div>
   );
 }
